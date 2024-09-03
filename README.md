@@ -17,7 +17,7 @@ Data Dictionary
 
 The Amazon dataset contains the following attributes:
 
-userId: Every user identified with a unique id
-productId: Every product identified with a unique id
-Rating: The rating of the corresponding product by the corresponding user
-timestamp: Time of the rating. We will not use this column to solve the current problem
+- userId: Every user identified with a unique id
+- productId: Every product identified with a unique id
+- Rating: The rating of the corresponding product by the corresponding user
+- timestamp: Time of the rating. We will not use this column to solve the current problem
